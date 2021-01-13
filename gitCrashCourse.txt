@@ -1,0 +1,19 @@
+Version Control System - tracks changes
+  -- keeps track of code history
+  -- takes 'snapshots' of your files
+  
+$ sudo apt-get install git    //cli install
+
+
+
+$  git init         // initializes Local Git Repository
+$  git add <file>   // adds the file to the staging area
+$  git status       // check status of working tree
+$  git commit       // commit changes in index
+
+$  git push         // push local to remote repository
+$  git pull         // pull latest from remote
+$  git clone        // Clone repository into a new directory
+
+$ git --version     // gives you the version info
+
